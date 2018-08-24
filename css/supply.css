@@ -1,0 +1,28 @@
+html,body {
+	height: 100%;
+}
+body.supplier {
+	background-color: #f7f9fb;
+	font-size: 14px;
+}
+.supplier .sup{
+	text-align: right;
+}
+.supplier .sup a{
+	padding: 6px 5px;
+	background-color: #0040ff;
+	color: #ffffff;
+	width: 10%;
+	margin-bottom: 10px;
+}
+.supplier .red1{
+	text-align: right;
+}
+.supplier .red1 a{
+	padding: 6px 5px;
+	background-color: #ff1a1a;
+	color: #ffffff;
+	width: 10%;
+	margin-bottom: 10px;
+}
+
